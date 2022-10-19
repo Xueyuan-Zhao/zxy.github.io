@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "name"
+title                    : "XueYuan Zhao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xueyuan Zhao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zxy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Xueyuan-Zhao/zxy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "XueYuan-Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A Ph.D. Candidate guided by Dr. Prof. Wange Lv (STATE KEY LABORATORY OF MEDICINAL CHEMICAL BIOLOGY)"
+  location         : "CHINA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Xueyuan+Zhao%EF%BC%8CState+Key+Laboratory+of+Medicinal+Chemical+Biology"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=e25fvWMAAAAJ&view_op=list_works"
+  email            : "ZhaoXY9511@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Xueyuan-Zhao-5"
   uri              :
   bitbucket        :
   codepen          :
