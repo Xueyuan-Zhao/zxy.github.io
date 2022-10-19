@@ -9,8 +9,8 @@
 locale                   : "name"
 title                    : "XueYuan Zhao"
 title_separator          : "-"
-name                     : &name "Xueyuan Zhao"
-description              : &description "personal description"
+name                     : "Xueyuan Zhao"
+description              : &description "XueYuan Zhao Degree: Bachelor of Science Position: Ph.D. Candidate  Current activity: RA (Retinoic acid) induced 3D chromatin architecture during ESCs early differetiation  Institution: NanKai University  Department: STATE KEY LABORATORY OF MEDICINAL CHEMICAL BIOLOGY  Skills: Cell culture and differentiation · Construction of knockout, knockdown and knock-in ESC lines · Protein extraction and Western Blot + 1 other"
 url                      : "https://zxy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xueyuan-Zhao/zxy.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "XueYuan-Zhao"
+  name             : "XueYuan Zhao"
   avatar           : "profile.png"
   bio              : "A Ph.D. Candidate guided by Dr. Prof. Wange Lv (STATE KEY LABORATORY OF MEDICINAL CHEMICAL BIOLOGY)"
   location         : "CHINA"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zxy.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4964-4352"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
